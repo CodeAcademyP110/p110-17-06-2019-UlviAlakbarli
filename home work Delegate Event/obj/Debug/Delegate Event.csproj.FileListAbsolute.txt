@@ -1,0 +1,7 @@
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\obj\Debug\Delegate Event.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\obj\Debug\Delegate Event.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\bin\Debug\Delegate Event.exe.config
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\bin\Debug\Delegate Event.exe
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\bin\Debug\Delegate Event.pdb
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\obj\Debug\Delegate Event.exe
+C:\Users\Ulvi\source\repos\Delegate Event\Delegate Event\obj\Debug\Delegate Event.pdb
